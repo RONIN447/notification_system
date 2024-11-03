@@ -33,3 +33,6 @@ This project implements a Python-based solution for sending push notifications a
    
 -> Additional Notes
 - Ensure to handle FCM tokens securely.
+
+Note:
+As firebase has mitigated from FCM key to HTTPv1 , read the official firebase document to implement it .

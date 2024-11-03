@@ -8,7 +8,7 @@ This project implements a Python-based solution for sending push notifications a
 1. Clone the repository:
    ```bash
    git clone <repository_url>
-   cd ImplementaPushNotification
+   cd <the directory name>
    ```
 
 2. Install the required dependencies:
